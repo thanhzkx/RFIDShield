@@ -48,4 +48,4 @@ The system authenticates access with RFID cards, controls a servo motor to open/
 ---
 
 ## 📫 Contact  
-✉️ Email: **nguyenminhthanh.offfice@gmail.com**
+✉️ Email: **nguyenminhthanh.office@gmail.com**
